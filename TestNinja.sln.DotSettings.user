@@ -1,6 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=75d31209_002D7e3f_002D42ee_002D818f_002D363c42c4035f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_WhenCalled_ReturTheSumOfArguments" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::0A1CA808-40AD-4253-87DE-7C1E915172A1::.NETFramework,Version=v4.6.1::TestNinja.UnitTests.MathTests.Add_WhenCalled_ReturTheSumOfArguments&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0A1CA808-40AD-4253-87DE-7C1E915172A1::.NETFramework,Version=v4.6.1::TestNinja.UnitTests.MathTests.Max_WhenCalled_ReturnTheGreaterArgument&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
