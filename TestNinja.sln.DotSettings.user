@@ -3,5 +3,6 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::0A1CA808-40AD-4253-87DE-7C1E915172A1::.NETFramework,Version=v4.6.1::TestNinja.UnitTests.MathTests.Max_WhenCalled_ReturnTheGreaterArgument&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::0A1CA808-40AD-4253-87DE-7C1E915172A1::.NETFramework,Version=v4.6.1::TestNinja.UnitTests.MathTests.Add_WhenCalled_ReturnTheSumOfArguments&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0A1CA808-40AD-4253-87DE-7C1E915172A1::.NETFramework,Version=v4.6.1::TestNinja.UnitTests.HtmlFormatterTests.FormatAsBold_WhenCalled_ShouldEncloseTheStringWithStrongElement&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
