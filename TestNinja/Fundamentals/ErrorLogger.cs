@@ -11,9 +11,12 @@ namespace TestNinja.Fundamentals
         
         public void Log(string error)
         {
+            // null
+            // ""
+            // " "
             if (String.IsNullOrWhiteSpace(error))
                 throw new ArgumentNullException();
-                
+
             LastError = error; 
             
             // Write the log to a storage
